@@ -1,3 +1,6 @@
 .env
 env
 venv
+
+#generated csv files
+tweets.csv
